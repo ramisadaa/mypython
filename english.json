@@ -1,0 +1,4002 @@
+[
+  {
+    "english": "wave",
+    "arabic": "موجة"
+  },
+  {
+    "english": "inside",
+    "arabic": "داخل"
+  },
+  {
+    "english": "hello",
+    "arabic": "مرحبا"
+  },
+  {
+    "english": "carriage",
+    "arabic": "نقل"
+  },
+  {
+    "english": "love",
+    "arabic": "حب"
+  },
+  {
+    "english": "book",
+    "arabic": "كتاب"
+  },
+  {
+    "english": "water",
+    "arabic": "ماء"
+  },
+  {
+    "english": "tree",
+    "arabic": "شجرة"
+  },
+  {
+    "english": "city",
+    "arabic": "مدينة"
+  },
+  {
+    "english": "friend",
+    "arabic": "صديق"
+  },
+  {
+    "english": "word11",
+    "arabic": "كلمة11"
+  },
+  {
+    "english": "word12",
+    "arabic": "كلمة12"
+  },
+  {
+    "english": "word13",
+    "arabic": "كلمة13"
+  },
+  {
+    "english": "word14",
+    "arabic": "كلمة14"
+  },
+  {
+    "english": "word15",
+    "arabic": "كلمة15"
+  },
+  {
+    "english": "word16",
+    "arabic": "كلمة16"
+  },
+  {
+    "english": "word17",
+    "arabic": "كلمة17"
+  },
+  {
+    "english": "word18",
+    "arabic": "كلمة18"
+  },
+  {
+    "english": "word19",
+    "arabic": "كلمة19"
+  },
+  {
+    "english": "word20",
+    "arabic": "كلمة20"
+  },
+  {
+    "english": "word21",
+    "arabic": "كلمة21"
+  },
+  {
+    "english": "word22",
+    "arabic": "كلمة22"
+  },
+  {
+    "english": "word23",
+    "arabic": "كلمة23"
+  },
+  {
+    "english": "word24",
+    "arabic": "كلمة24"
+  },
+  {
+    "english": "word25",
+    "arabic": "كلمة25"
+  },
+  {
+    "english": "word26",
+    "arabic": "كلمة26"
+  },
+  {
+    "english": "word27",
+    "arabic": "كلمة27"
+  },
+  {
+    "english": "word28",
+    "arabic": "كلمة28"
+  },
+  {
+    "english": "word29",
+    "arabic": "كلمة29"
+  },
+  {
+    "english": "word30",
+    "arabic": "كلمة30"
+  },
+  {
+    "english": "word31",
+    "arabic": "كلمة31"
+  },
+  {
+    "english": "word32",
+    "arabic": "كلمة32"
+  },
+  {
+    "english": "word33",
+    "arabic": "كلمة33"
+  },
+  {
+    "english": "word34",
+    "arabic": "كلمة34"
+  },
+  {
+    "english": "word35",
+    "arabic": "كلمة35"
+  },
+  {
+    "english": "word36",
+    "arabic": "كلمة36"
+  },
+  {
+    "english": "word37",
+    "arabic": "كلمة37"
+  },
+  {
+    "english": "word38",
+    "arabic": "كلمة38"
+  },
+  {
+    "english": "word39",
+    "arabic": "كلمة39"
+  },
+  {
+    "english": "word40",
+    "arabic": "كلمة40"
+  },
+  {
+    "english": "word41",
+    "arabic": "كلمة41"
+  },
+  {
+    "english": "word42",
+    "arabic": "كلمة42"
+  },
+  {
+    "english": "word43",
+    "arabic": "كلمة43"
+  },
+  {
+    "english": "word44",
+    "arabic": "كلمة44"
+  },
+  {
+    "english": "word45",
+    "arabic": "كلمة45"
+  },
+  {
+    "english": "word46",
+    "arabic": "كلمة46"
+  },
+  {
+    "english": "word47",
+    "arabic": "كلمة47"
+  },
+  {
+    "english": "word48",
+    "arabic": "كلمة48"
+  },
+  {
+    "english": "word49",
+    "arabic": "كلمة49"
+  },
+  {
+    "english": "word50",
+    "arabic": "كلمة50"
+  },
+  {
+    "english": "word51",
+    "arabic": "كلمة51"
+  },
+  {
+    "english": "word52",
+    "arabic": "كلمة52"
+  },
+  {
+    "english": "word53",
+    "arabic": "كلمة53"
+  },
+  {
+    "english": "word54",
+    "arabic": "كلمة54"
+  },
+  {
+    "english": "word55",
+    "arabic": "كلمة55"
+  },
+  {
+    "english": "word56",
+    "arabic": "كلمة56"
+  },
+  {
+    "english": "word57",
+    "arabic": "كلمة57"
+  },
+  {
+    "english": "word58",
+    "arabic": "كلمة58"
+  },
+  {
+    "english": "word59",
+    "arabic": "كلمة59"
+  },
+  {
+    "english": "word60",
+    "arabic": "كلمة60"
+  },
+  {
+    "english": "word61",
+    "arabic": "كلمة61"
+  },
+  {
+    "english": "word62",
+    "arabic": "كلمة62"
+  },
+  {
+    "english": "word63",
+    "arabic": "كلمة63"
+  },
+  {
+    "english": "word64",
+    "arabic": "كلمة64"
+  },
+  {
+    "english": "word65",
+    "arabic": "كلمة65"
+  },
+  {
+    "english": "word66",
+    "arabic": "كلمة66"
+  },
+  {
+    "english": "word67",
+    "arabic": "كلمة67"
+  },
+  {
+    "english": "word68",
+    "arabic": "كلمة68"
+  },
+  {
+    "english": "word69",
+    "arabic": "كلمة69"
+  },
+  {
+    "english": "word70",
+    "arabic": "كلمة70"
+  },
+  {
+    "english": "word71",
+    "arabic": "كلمة71"
+  },
+  {
+    "english": "word72",
+    "arabic": "كلمة72"
+  },
+  {
+    "english": "word73",
+    "arabic": "كلمة73"
+  },
+  {
+    "english": "word74",
+    "arabic": "كلمة74"
+  },
+  {
+    "english": "word75",
+    "arabic": "كلمة75"
+  },
+  {
+    "english": "word76",
+    "arabic": "كلمة76"
+  },
+  {
+    "english": "word77",
+    "arabic": "كلمة77"
+  },
+  {
+    "english": "word78",
+    "arabic": "كلمة78"
+  },
+  {
+    "english": "word79",
+    "arabic": "كلمة79"
+  },
+  {
+    "english": "word80",
+    "arabic": "كلمة80"
+  },
+  {
+    "english": "word81",
+    "arabic": "كلمة81"
+  },
+  {
+    "english": "word82",
+    "arabic": "كلمة82"
+  },
+  {
+    "english": "word83",
+    "arabic": "كلمة83"
+  },
+  {
+    "english": "word84",
+    "arabic": "كلمة84"
+  },
+  {
+    "english": "word85",
+    "arabic": "كلمة85"
+  },
+  {
+    "english": "word86",
+    "arabic": "كلمة86"
+  },
+  {
+    "english": "word87",
+    "arabic": "كلمة87"
+  },
+  {
+    "english": "word88",
+    "arabic": "كلمة88"
+  },
+  {
+    "english": "word89",
+    "arabic": "كلمة89"
+  },
+  {
+    "english": "word90",
+    "arabic": "كلمة90"
+  },
+  {
+    "english": "word91",
+    "arabic": "كلمة91"
+  },
+  {
+    "english": "word92",
+    "arabic": "كلمة92"
+  },
+  {
+    "english": "word93",
+    "arabic": "كلمة93"
+  },
+  {
+    "english": "word94",
+    "arabic": "كلمة94"
+  },
+  {
+    "english": "word95",
+    "arabic": "كلمة95"
+  },
+  {
+    "english": "word96",
+    "arabic": "كلمة96"
+  },
+  {
+    "english": "word97",
+    "arabic": "كلمة97"
+  },
+  {
+    "english": "word98",
+    "arabic": "كلمة98"
+  },
+  {
+    "english": "word99",
+    "arabic": "كلمة99"
+  },
+  {
+    "english": "word100",
+    "arabic": "كلمة100"
+  },
+  {
+    "english": "word101",
+    "arabic": "كلمة101"
+  },
+  {
+    "english": "word102",
+    "arabic": "كلمة102"
+  },
+  {
+    "english": "word103",
+    "arabic": "كلمة103"
+  },
+  {
+    "english": "word104",
+    "arabic": "كلمة104"
+  },
+  {
+    "english": "word105",
+    "arabic": "كلمة105"
+  },
+  {
+    "english": "word106",
+    "arabic": "كلمة106"
+  },
+  {
+    "english": "word107",
+    "arabic": "كلمة107"
+  },
+  {
+    "english": "word108",
+    "arabic": "كلمة108"
+  },
+  {
+    "english": "word109",
+    "arabic": "كلمة109"
+  },
+  {
+    "english": "word110",
+    "arabic": "كلمة110"
+  },
+  {
+    "english": "word111",
+    "arabic": "كلمة111"
+  },
+  {
+    "english": "word112",
+    "arabic": "كلمة112"
+  },
+  {
+    "english": "word113",
+    "arabic": "كلمة113"
+  },
+  {
+    "english": "word114",
+    "arabic": "كلمة114"
+  },
+  {
+    "english": "word115",
+    "arabic": "كلمة115"
+  },
+  {
+    "english": "word116",
+    "arabic": "كلمة116"
+  },
+  {
+    "english": "word117",
+    "arabic": "كلمة117"
+  },
+  {
+    "english": "word118",
+    "arabic": "كلمة118"
+  },
+  {
+    "english": "word119",
+    "arabic": "كلمة119"
+  },
+  {
+    "english": "word120",
+    "arabic": "كلمة120"
+  },
+  {
+    "english": "word121",
+    "arabic": "كلمة121"
+  },
+  {
+    "english": "word122",
+    "arabic": "كلمة122"
+  },
+  {
+    "english": "word123",
+    "arabic": "كلمة123"
+  },
+  {
+    "english": "word124",
+    "arabic": "كلمة124"
+  },
+  {
+    "english": "word125",
+    "arabic": "كلمة125"
+  },
+  {
+    "english": "word126",
+    "arabic": "كلمة126"
+  },
+  {
+    "english": "word127",
+    "arabic": "كلمة127"
+  },
+  {
+    "english": "word128",
+    "arabic": "كلمة128"
+  },
+  {
+    "english": "word129",
+    "arabic": "كلمة129"
+  },
+  {
+    "english": "word130",
+    "arabic": "كلمة130"
+  },
+  {
+    "english": "word131",
+    "arabic": "كلمة131"
+  },
+  {
+    "english": "word132",
+    "arabic": "كلمة132"
+  },
+  {
+    "english": "word133",
+    "arabic": "كلمة133"
+  },
+  {
+    "english": "word134",
+    "arabic": "كلمة134"
+  },
+  {
+    "english": "word135",
+    "arabic": "كلمة135"
+  },
+  {
+    "english": "word136",
+    "arabic": "كلمة136"
+  },
+  {
+    "english": "word137",
+    "arabic": "كلمة137"
+  },
+  {
+    "english": "word138",
+    "arabic": "كلمة138"
+  },
+  {
+    "english": "word139",
+    "arabic": "كلمة139"
+  },
+  {
+    "english": "word140",
+    "arabic": "كلمة140"
+  },
+  {
+    "english": "word141",
+    "arabic": "كلمة141"
+  },
+  {
+    "english": "word142",
+    "arabic": "كلمة142"
+  },
+  {
+    "english": "word143",
+    "arabic": "كلمة143"
+  },
+  {
+    "english": "word144",
+    "arabic": "كلمة144"
+  },
+  {
+    "english": "word145",
+    "arabic": "كلمة145"
+  },
+  {
+    "english": "word146",
+    "arabic": "كلمة146"
+  },
+  {
+    "english": "word147",
+    "arabic": "كلمة147"
+  },
+  {
+    "english": "word148",
+    "arabic": "كلمة148"
+  },
+  {
+    "english": "word149",
+    "arabic": "كلمة149"
+  },
+  {
+    "english": "word150",
+    "arabic": "كلمة150"
+  },
+  {
+    "english": "word151",
+    "arabic": "كلمة151"
+  },
+  {
+    "english": "word152",
+    "arabic": "كلمة152"
+  },
+  {
+    "english": "word153",
+    "arabic": "كلمة153"
+  },
+  {
+    "english": "word154",
+    "arabic": "كلمة154"
+  },
+  {
+    "english": "word155",
+    "arabic": "كلمة155"
+  },
+  {
+    "english": "word156",
+    "arabic": "كلمة156"
+  },
+  {
+    "english": "word157",
+    "arabic": "كلمة157"
+  },
+  {
+    "english": "word158",
+    "arabic": "كلمة158"
+  },
+  {
+    "english": "word159",
+    "arabic": "كلمة159"
+  },
+  {
+    "english": "word160",
+    "arabic": "كلمة160"
+  },
+  {
+    "english": "word161",
+    "arabic": "كلمة161"
+  },
+  {
+    "english": "word162",
+    "arabic": "كلمة162"
+  },
+  {
+    "english": "word163",
+    "arabic": "كلمة163"
+  },
+  {
+    "english": "word164",
+    "arabic": "كلمة164"
+  },
+  {
+    "english": "word165",
+    "arabic": "كلمة165"
+  },
+  {
+    "english": "word166",
+    "arabic": "كلمة166"
+  },
+  {
+    "english": "word167",
+    "arabic": "كلمة167"
+  },
+  {
+    "english": "word168",
+    "arabic": "كلمة168"
+  },
+  {
+    "english": "word169",
+    "arabic": "كلمة169"
+  },
+  {
+    "english": "word170",
+    "arabic": "كلمة170"
+  },
+  {
+    "english": "word171",
+    "arabic": "كلمة171"
+  },
+  {
+    "english": "word172",
+    "arabic": "كلمة172"
+  },
+  {
+    "english": "word173",
+    "arabic": "كلمة173"
+  },
+  {
+    "english": "word174",
+    "arabic": "كلمة174"
+  },
+  {
+    "english": "word175",
+    "arabic": "كلمة175"
+  },
+  {
+    "english": "word176",
+    "arabic": "كلمة176"
+  },
+  {
+    "english": "word177",
+    "arabic": "كلمة177"
+  },
+  {
+    "english": "word178",
+    "arabic": "كلمة178"
+  },
+  {
+    "english": "word179",
+    "arabic": "كلمة179"
+  },
+  {
+    "english": "word180",
+    "arabic": "كلمة180"
+  },
+  {
+    "english": "word181",
+    "arabic": "كلمة181"
+  },
+  {
+    "english": "word182",
+    "arabic": "كلمة182"
+  },
+  {
+    "english": "word183",
+    "arabic": "كلمة183"
+  },
+  {
+    "english": "word184",
+    "arabic": "كلمة184"
+  },
+  {
+    "english": "word185",
+    "arabic": "كلمة185"
+  },
+  {
+    "english": "word186",
+    "arabic": "كلمة186"
+  },
+  {
+    "english": "word187",
+    "arabic": "كلمة187"
+  },
+  {
+    "english": "word188",
+    "arabic": "كلمة188"
+  },
+  {
+    "english": "word189",
+    "arabic": "كلمة189"
+  },
+  {
+    "english": "word190",
+    "arabic": "كلمة190"
+  },
+  {
+    "english": "word191",
+    "arabic": "كلمة191"
+  },
+  {
+    "english": "word192",
+    "arabic": "كلمة192"
+  },
+  {
+    "english": "word193",
+    "arabic": "كلمة193"
+  },
+  {
+    "english": "word194",
+    "arabic": "كلمة194"
+  },
+  {
+    "english": "word195",
+    "arabic": "كلمة195"
+  },
+  {
+    "english": "word196",
+    "arabic": "كلمة196"
+  },
+  {
+    "english": "word197",
+    "arabic": "كلمة197"
+  },
+  {
+    "english": "word198",
+    "arabic": "كلمة198"
+  },
+  {
+    "english": "word199",
+    "arabic": "كلمة199"
+  },
+  {
+    "english": "word200",
+    "arabic": "كلمة200"
+  },
+  {
+    "english": "word201",
+    "arabic": "كلمة201"
+  },
+  {
+    "english": "word202",
+    "arabic": "كلمة202"
+  },
+  {
+    "english": "word203",
+    "arabic": "كلمة203"
+  },
+  {
+    "english": "word204",
+    "arabic": "كلمة204"
+  },
+  {
+    "english": "word205",
+    "arabic": "كلمة205"
+  },
+  {
+    "english": "word206",
+    "arabic": "كلمة206"
+  },
+  {
+    "english": "word207",
+    "arabic": "كلمة207"
+  },
+  {
+    "english": "word208",
+    "arabic": "كلمة208"
+  },
+  {
+    "english": "word209",
+    "arabic": "كلمة209"
+  },
+  {
+    "english": "word210",
+    "arabic": "كلمة210"
+  },
+  {
+    "english": "word211",
+    "arabic": "كلمة211"
+  },
+  {
+    "english": "word212",
+    "arabic": "كلمة212"
+  },
+  {
+    "english": "word213",
+    "arabic": "كلمة213"
+  },
+  {
+    "english": "word214",
+    "arabic": "كلمة214"
+  },
+  {
+    "english": "word215",
+    "arabic": "كلمة215"
+  },
+  {
+    "english": "word216",
+    "arabic": "كلمة216"
+  },
+  {
+    "english": "word217",
+    "arabic": "كلمة217"
+  },
+  {
+    "english": "word218",
+    "arabic": "كلمة218"
+  },
+  {
+    "english": "word219",
+    "arabic": "كلمة219"
+  },
+  {
+    "english": "word220",
+    "arabic": "كلمة220"
+  },
+  {
+    "english": "word221",
+    "arabic": "كلمة221"
+  },
+  {
+    "english": "word222",
+    "arabic": "كلمة222"
+  },
+  {
+    "english": "word223",
+    "arabic": "كلمة223"
+  },
+  {
+    "english": "word224",
+    "arabic": "كلمة224"
+  },
+  {
+    "english": "word225",
+    "arabic": "كلمة225"
+  },
+  {
+    "english": "word226",
+    "arabic": "كلمة226"
+  },
+  {
+    "english": "word227",
+    "arabic": "كلمة227"
+  },
+  {
+    "english": "word228",
+    "arabic": "كلمة228"
+  },
+  {
+    "english": "word229",
+    "arabic": "كلمة229"
+  },
+  {
+    "english": "word230",
+    "arabic": "كلمة230"
+  },
+  {
+    "english": "word231",
+    "arabic": "كلمة231"
+  },
+  {
+    "english": "word232",
+    "arabic": "كلمة232"
+  },
+  {
+    "english": "word233",
+    "arabic": "كلمة233"
+  },
+  {
+    "english": "word234",
+    "arabic": "كلمة234"
+  },
+  {
+    "english": "word235",
+    "arabic": "كلمة235"
+  },
+  {
+    "english": "word236",
+    "arabic": "كلمة236"
+  },
+  {
+    "english": "word237",
+    "arabic": "كلمة237"
+  },
+  {
+    "english": "word238",
+    "arabic": "كلمة238"
+  },
+  {
+    "english": "word239",
+    "arabic": "كلمة239"
+  },
+  {
+    "english": "word240",
+    "arabic": "كلمة240"
+  },
+  {
+    "english": "word241",
+    "arabic": "كلمة241"
+  },
+  {
+    "english": "word242",
+    "arabic": "كلمة242"
+  },
+  {
+    "english": "word243",
+    "arabic": "كلمة243"
+  },
+  {
+    "english": "word244",
+    "arabic": "كلمة244"
+  },
+  {
+    "english": "word245",
+    "arabic": "كلمة245"
+  },
+  {
+    "english": "word246",
+    "arabic": "كلمة246"
+  },
+  {
+    "english": "word247",
+    "arabic": "كلمة247"
+  },
+  {
+    "english": "word248",
+    "arabic": "كلمة248"
+  },
+  {
+    "english": "word249",
+    "arabic": "كلمة249"
+  },
+  {
+    "english": "word250",
+    "arabic": "كلمة250"
+  },
+  {
+    "english": "word251",
+    "arabic": "كلمة251"
+  },
+  {
+    "english": "word252",
+    "arabic": "كلمة252"
+  },
+  {
+    "english": "word253",
+    "arabic": "كلمة253"
+  },
+  {
+    "english": "word254",
+    "arabic": "كلمة254"
+  },
+  {
+    "english": "word255",
+    "arabic": "كلمة255"
+  },
+  {
+    "english": "word256",
+    "arabic": "كلمة256"
+  },
+  {
+    "english": "word257",
+    "arabic": "كلمة257"
+  },
+  {
+    "english": "word258",
+    "arabic": "كلمة258"
+  },
+  {
+    "english": "word259",
+    "arabic": "كلمة259"
+  },
+  {
+    "english": "word260",
+    "arabic": "كلمة260"
+  },
+  {
+    "english": "word261",
+    "arabic": "كلمة261"
+  },
+  {
+    "english": "word262",
+    "arabic": "كلمة262"
+  },
+  {
+    "english": "word263",
+    "arabic": "كلمة263"
+  },
+  {
+    "english": "word264",
+    "arabic": "كلمة264"
+  },
+  {
+    "english": "word265",
+    "arabic": "كلمة265"
+  },
+  {
+    "english": "word266",
+    "arabic": "كلمة266"
+  },
+  {
+    "english": "word267",
+    "arabic": "كلمة267"
+  },
+  {
+    "english": "word268",
+    "arabic": "كلمة268"
+  },
+  {
+    "english": "word269",
+    "arabic": "كلمة269"
+  },
+  {
+    "english": "word270",
+    "arabic": "كلمة270"
+  },
+  {
+    "english": "word271",
+    "arabic": "كلمة271"
+  },
+  {
+    "english": "word272",
+    "arabic": "كلمة272"
+  },
+  {
+    "english": "word273",
+    "arabic": "كلمة273"
+  },
+  {
+    "english": "word274",
+    "arabic": "كلمة274"
+  },
+  {
+    "english": "word275",
+    "arabic": "كلمة275"
+  },
+  {
+    "english": "word276",
+    "arabic": "كلمة276"
+  },
+  {
+    "english": "word277",
+    "arabic": "كلمة277"
+  },
+  {
+    "english": "word278",
+    "arabic": "كلمة278"
+  },
+  {
+    "english": "word279",
+    "arabic": "كلمة279"
+  },
+  {
+    "english": "word280",
+    "arabic": "كلمة280"
+  },
+  {
+    "english": "word281",
+    "arabic": "كلمة281"
+  },
+  {
+    "english": "word282",
+    "arabic": "كلمة282"
+  },
+  {
+    "english": "word283",
+    "arabic": "كلمة283"
+  },
+  {
+    "english": "word284",
+    "arabic": "كلمة284"
+  },
+  {
+    "english": "word285",
+    "arabic": "كلمة285"
+  },
+  {
+    "english": "word286",
+    "arabic": "كلمة286"
+  },
+  {
+    "english": "word287",
+    "arabic": "كلمة287"
+  },
+  {
+    "english": "word288",
+    "arabic": "كلمة288"
+  },
+  {
+    "english": "word289",
+    "arabic": "كلمة289"
+  },
+  {
+    "english": "word290",
+    "arabic": "كلمة290"
+  },
+  {
+    "english": "word291",
+    "arabic": "كلمة291"
+  },
+  {
+    "english": "word292",
+    "arabic": "كلمة292"
+  },
+  {
+    "english": "word293",
+    "arabic": "كلمة293"
+  },
+  {
+    "english": "word294",
+    "arabic": "كلمة294"
+  },
+  {
+    "english": "word295",
+    "arabic": "كلمة295"
+  },
+  {
+    "english": "word296",
+    "arabic": "كلمة296"
+  },
+  {
+    "english": "word297",
+    "arabic": "كلمة297"
+  },
+  {
+    "english": "word298",
+    "arabic": "كلمة298"
+  },
+  {
+    "english": "word299",
+    "arabic": "كلمة299"
+  },
+  {
+    "english": "word300",
+    "arabic": "كلمة300"
+  },
+  {
+    "english": "word301",
+    "arabic": "كلمة301"
+  },
+  {
+    "english": "word302",
+    "arabic": "كلمة302"
+  },
+  {
+    "english": "word303",
+    "arabic": "كلمة303"
+  },
+  {
+    "english": "word304",
+    "arabic": "كلمة304"
+  },
+  {
+    "english": "word305",
+    "arabic": "كلمة305"
+  },
+  {
+    "english": "word306",
+    "arabic": "كلمة306"
+  },
+  {
+    "english": "word307",
+    "arabic": "كلمة307"
+  },
+  {
+    "english": "word308",
+    "arabic": "كلمة308"
+  },
+  {
+    "english": "word309",
+    "arabic": "كلمة309"
+  },
+  {
+    "english": "word310",
+    "arabic": "كلمة310"
+  },
+  {
+    "english": "word311",
+    "arabic": "كلمة311"
+  },
+  {
+    "english": "word312",
+    "arabic": "كلمة312"
+  },
+  {
+    "english": "word313",
+    "arabic": "كلمة313"
+  },
+  {
+    "english": "word314",
+    "arabic": "كلمة314"
+  },
+  {
+    "english": "word315",
+    "arabic": "كلمة315"
+  },
+  {
+    "english": "word316",
+    "arabic": "كلمة316"
+  },
+  {
+    "english": "word317",
+    "arabic": "كلمة317"
+  },
+  {
+    "english": "word318",
+    "arabic": "كلمة318"
+  },
+  {
+    "english": "word319",
+    "arabic": "كلمة319"
+  },
+  {
+    "english": "word320",
+    "arabic": "كلمة320"
+  },
+  {
+    "english": "word321",
+    "arabic": "كلمة321"
+  },
+  {
+    "english": "word322",
+    "arabic": "كلمة322"
+  },
+  {
+    "english": "word323",
+    "arabic": "كلمة323"
+  },
+  {
+    "english": "word324",
+    "arabic": "كلمة324"
+  },
+  {
+    "english": "word325",
+    "arabic": "كلمة325"
+  },
+  {
+    "english": "word326",
+    "arabic": "كلمة326"
+  },
+  {
+    "english": "word327",
+    "arabic": "كلمة327"
+  },
+  {
+    "english": "word328",
+    "arabic": "كلمة328"
+  },
+  {
+    "english": "word329",
+    "arabic": "كلمة329"
+  },
+  {
+    "english": "word330",
+    "arabic": "كلمة330"
+  },
+  {
+    "english": "word331",
+    "arabic": "كلمة331"
+  },
+  {
+    "english": "word332",
+    "arabic": "كلمة332"
+  },
+  {
+    "english": "word333",
+    "arabic": "كلمة333"
+  },
+  {
+    "english": "word334",
+    "arabic": "كلمة334"
+  },
+  {
+    "english": "word335",
+    "arabic": "كلمة335"
+  },
+  {
+    "english": "word336",
+    "arabic": "كلمة336"
+  },
+  {
+    "english": "word337",
+    "arabic": "كلمة337"
+  },
+  {
+    "english": "word338",
+    "arabic": "كلمة338"
+  },
+  {
+    "english": "word339",
+    "arabic": "كلمة339"
+  },
+  {
+    "english": "word340",
+    "arabic": "كلمة340"
+  },
+  {
+    "english": "word341",
+    "arabic": "كلمة341"
+  },
+  {
+    "english": "word342",
+    "arabic": "كلمة342"
+  },
+  {
+    "english": "word343",
+    "arabic": "كلمة343"
+  },
+  {
+    "english": "word344",
+    "arabic": "كلمة344"
+  },
+  {
+    "english": "word345",
+    "arabic": "كلمة345"
+  },
+  {
+    "english": "word346",
+    "arabic": "كلمة346"
+  },
+  {
+    "english": "word347",
+    "arabic": "كلمة347"
+  },
+  {
+    "english": "word348",
+    "arabic": "كلمة348"
+  },
+  {
+    "english": "word349",
+    "arabic": "كلمة349"
+  },
+  {
+    "english": "word350",
+    "arabic": "كلمة350"
+  },
+  {
+    "english": "word351",
+    "arabic": "كلمة351"
+  },
+  {
+    "english": "word352",
+    "arabic": "كلمة352"
+  },
+  {
+    "english": "word353",
+    "arabic": "كلمة353"
+  },
+  {
+    "english": "word354",
+    "arabic": "كلمة354"
+  },
+  {
+    "english": "word355",
+    "arabic": "كلمة355"
+  },
+  {
+    "english": "word356",
+    "arabic": "كلمة356"
+  },
+  {
+    "english": "word357",
+    "arabic": "كلمة357"
+  },
+  {
+    "english": "word358",
+    "arabic": "كلمة358"
+  },
+  {
+    "english": "word359",
+    "arabic": "كلمة359"
+  },
+  {
+    "english": "word360",
+    "arabic": "كلمة360"
+  },
+  {
+    "english": "word361",
+    "arabic": "كلمة361"
+  },
+  {
+    "english": "word362",
+    "arabic": "كلمة362"
+  },
+  {
+    "english": "word363",
+    "arabic": "كلمة363"
+  },
+  {
+    "english": "word364",
+    "arabic": "كلمة364"
+  },
+  {
+    "english": "word365",
+    "arabic": "كلمة365"
+  },
+  {
+    "english": "word366",
+    "arabic": "كلمة366"
+  },
+  {
+    "english": "word367",
+    "arabic": "كلمة367"
+  },
+  {
+    "english": "word368",
+    "arabic": "كلمة368"
+  },
+  {
+    "english": "word369",
+    "arabic": "كلمة369"
+  },
+  {
+    "english": "word370",
+    "arabic": "كلمة370"
+  },
+  {
+    "english": "word371",
+    "arabic": "كلمة371"
+  },
+  {
+    "english": "word372",
+    "arabic": "كلمة372"
+  },
+  {
+    "english": "word373",
+    "arabic": "كلمة373"
+  },
+  {
+    "english": "word374",
+    "arabic": "كلمة374"
+  },
+  {
+    "english": "word375",
+    "arabic": "كلمة375"
+  },
+  {
+    "english": "word376",
+    "arabic": "كلمة376"
+  },
+  {
+    "english": "word377",
+    "arabic": "كلمة377"
+  },
+  {
+    "english": "word378",
+    "arabic": "كلمة378"
+  },
+  {
+    "english": "word379",
+    "arabic": "كلمة379"
+  },
+  {
+    "english": "word380",
+    "arabic": "كلمة380"
+  },
+  {
+    "english": "word381",
+    "arabic": "كلمة381"
+  },
+  {
+    "english": "word382",
+    "arabic": "كلمة382"
+  },
+  {
+    "english": "word383",
+    "arabic": "كلمة383"
+  },
+  {
+    "english": "word384",
+    "arabic": "كلمة384"
+  },
+  {
+    "english": "word385",
+    "arabic": "كلمة385"
+  },
+  {
+    "english": "word386",
+    "arabic": "كلمة386"
+  },
+  {
+    "english": "word387",
+    "arabic": "كلمة387"
+  },
+  {
+    "english": "word388",
+    "arabic": "كلمة388"
+  },
+  {
+    "english": "word389",
+    "arabic": "كلمة389"
+  },
+  {
+    "english": "word390",
+    "arabic": "كلمة390"
+  },
+  {
+    "english": "word391",
+    "arabic": "كلمة391"
+  },
+  {
+    "english": "word392",
+    "arabic": "كلمة392"
+  },
+  {
+    "english": "word393",
+    "arabic": "كلمة393"
+  },
+  {
+    "english": "word394",
+    "arabic": "كلمة394"
+  },
+  {
+    "english": "word395",
+    "arabic": "كلمة395"
+  },
+  {
+    "english": "word396",
+    "arabic": "كلمة396"
+  },
+  {
+    "english": "word397",
+    "arabic": "كلمة397"
+  },
+  {
+    "english": "word398",
+    "arabic": "كلمة398"
+  },
+  {
+    "english": "word399",
+    "arabic": "كلمة399"
+  },
+  {
+    "english": "word400",
+    "arabic": "كلمة400"
+  },
+  {
+    "english": "word401",
+    "arabic": "كلمة401"
+  },
+  {
+    "english": "word402",
+    "arabic": "كلمة402"
+  },
+  {
+    "english": "word403",
+    "arabic": "كلمة403"
+  },
+  {
+    "english": "word404",
+    "arabic": "كلمة404"
+  },
+  {
+    "english": "word405",
+    "arabic": "كلمة405"
+  },
+  {
+    "english": "word406",
+    "arabic": "كلمة406"
+  },
+  {
+    "english": "word407",
+    "arabic": "كلمة407"
+  },
+  {
+    "english": "word408",
+    "arabic": "كلمة408"
+  },
+  {
+    "english": "word409",
+    "arabic": "كلمة409"
+  },
+  {
+    "english": "word410",
+    "arabic": "كلمة410"
+  },
+  {
+    "english": "word411",
+    "arabic": "كلمة411"
+  },
+  {
+    "english": "word412",
+    "arabic": "كلمة412"
+  },
+  {
+    "english": "word413",
+    "arabic": "كلمة413"
+  },
+  {
+    "english": "word414",
+    "arabic": "كلمة414"
+  },
+  {
+    "english": "word415",
+    "arabic": "كلمة415"
+  },
+  {
+    "english": "word416",
+    "arabic": "كلمة416"
+  },
+  {
+    "english": "word417",
+    "arabic": "كلمة417"
+  },
+  {
+    "english": "word418",
+    "arabic": "كلمة418"
+  },
+  {
+    "english": "word419",
+    "arabic": "كلمة419"
+  },
+  {
+    "english": "word420",
+    "arabic": "كلمة420"
+  },
+  {
+    "english": "word421",
+    "arabic": "كلمة421"
+  },
+  {
+    "english": "word422",
+    "arabic": "كلمة422"
+  },
+  {
+    "english": "word423",
+    "arabic": "كلمة423"
+  },
+  {
+    "english": "word424",
+    "arabic": "كلمة424"
+  },
+  {
+    "english": "word425",
+    "arabic": "كلمة425"
+  },
+  {
+    "english": "word426",
+    "arabic": "كلمة426"
+  },
+  {
+    "english": "word427",
+    "arabic": "كلمة427"
+  },
+  {
+    "english": "word428",
+    "arabic": "كلمة428"
+  },
+  {
+    "english": "word429",
+    "arabic": "كلمة429"
+  },
+  {
+    "english": "word430",
+    "arabic": "كلمة430"
+  },
+  {
+    "english": "word431",
+    "arabic": "كلمة431"
+  },
+  {
+    "english": "word432",
+    "arabic": "كلمة432"
+  },
+  {
+    "english": "word433",
+    "arabic": "كلمة433"
+  },
+  {
+    "english": "word434",
+    "arabic": "كلمة434"
+  },
+  {
+    "english": "word435",
+    "arabic": "كلمة435"
+  },
+  {
+    "english": "word436",
+    "arabic": "كلمة436"
+  },
+  {
+    "english": "word437",
+    "arabic": "كلمة437"
+  },
+  {
+    "english": "word438",
+    "arabic": "كلمة438"
+  },
+  {
+    "english": "word439",
+    "arabic": "كلمة439"
+  },
+  {
+    "english": "word440",
+    "arabic": "كلمة440"
+  },
+  {
+    "english": "word441",
+    "arabic": "كلمة441"
+  },
+  {
+    "english": "word442",
+    "arabic": "كلمة442"
+  },
+  {
+    "english": "word443",
+    "arabic": "كلمة443"
+  },
+  {
+    "english": "word444",
+    "arabic": "كلمة444"
+  },
+  {
+    "english": "word445",
+    "arabic": "كلمة445"
+  },
+  {
+    "english": "word446",
+    "arabic": "كلمة446"
+  },
+  {
+    "english": "word447",
+    "arabic": "كلمة447"
+  },
+  {
+    "english": "word448",
+    "arabic": "كلمة448"
+  },
+  {
+    "english": "word449",
+    "arabic": "كلمة449"
+  },
+  {
+    "english": "word450",
+    "arabic": "كلمة450"
+  },
+  {
+    "english": "word451",
+    "arabic": "كلمة451"
+  },
+  {
+    "english": "word452",
+    "arabic": "كلمة452"
+  },
+  {
+    "english": "word453",
+    "arabic": "كلمة453"
+  },
+  {
+    "english": "word454",
+    "arabic": "كلمة454"
+  },
+  {
+    "english": "word455",
+    "arabic": "كلمة455"
+  },
+  {
+    "english": "word456",
+    "arabic": "كلمة456"
+  },
+  {
+    "english": "word457",
+    "arabic": "كلمة457"
+  },
+  {
+    "english": "word458",
+    "arabic": "كلمة458"
+  },
+  {
+    "english": "word459",
+    "arabic": "كلمة459"
+  },
+  {
+    "english": "word460",
+    "arabic": "كلمة460"
+  },
+  {
+    "english": "word461",
+    "arabic": "كلمة461"
+  },
+  {
+    "english": "word462",
+    "arabic": "كلمة462"
+  },
+  {
+    "english": "word463",
+    "arabic": "كلمة463"
+  },
+  {
+    "english": "word464",
+    "arabic": "كلمة464"
+  },
+  {
+    "english": "word465",
+    "arabic": "كلمة465"
+  },
+  {
+    "english": "word466",
+    "arabic": "كلمة466"
+  },
+  {
+    "english": "word467",
+    "arabic": "كلمة467"
+  },
+  {
+    "english": "word468",
+    "arabic": "كلمة468"
+  },
+  {
+    "english": "word469",
+    "arabic": "كلمة469"
+  },
+  {
+    "english": "word470",
+    "arabic": "كلمة470"
+  },
+  {
+    "english": "word471",
+    "arabic": "كلمة471"
+  },
+  {
+    "english": "word472",
+    "arabic": "كلمة472"
+  },
+  {
+    "english": "word473",
+    "arabic": "كلمة473"
+  },
+  {
+    "english": "word474",
+    "arabic": "كلمة474"
+  },
+  {
+    "english": "word475",
+    "arabic": "كلمة475"
+  },
+  {
+    "english": "word476",
+    "arabic": "كلمة476"
+  },
+  {
+    "english": "word477",
+    "arabic": "كلمة477"
+  },
+  {
+    "english": "word478",
+    "arabic": "كلمة478"
+  },
+  {
+    "english": "word479",
+    "arabic": "كلمة479"
+  },
+  {
+    "english": "word480",
+    "arabic": "كلمة480"
+  },
+  {
+    "english": "word481",
+    "arabic": "كلمة481"
+  },
+  {
+    "english": "word482",
+    "arabic": "كلمة482"
+  },
+  {
+    "english": "word483",
+    "arabic": "كلمة483"
+  },
+  {
+    "english": "word484",
+    "arabic": "كلمة484"
+  },
+  {
+    "english": "word485",
+    "arabic": "كلمة485"
+  },
+  {
+    "english": "word486",
+    "arabic": "كلمة486"
+  },
+  {
+    "english": "word487",
+    "arabic": "كلمة487"
+  },
+  {
+    "english": "word488",
+    "arabic": "كلمة488"
+  },
+  {
+    "english": "word489",
+    "arabic": "كلمة489"
+  },
+  {
+    "english": "word490",
+    "arabic": "كلمة490"
+  },
+  {
+    "english": "word491",
+    "arabic": "كلمة491"
+  },
+  {
+    "english": "word492",
+    "arabic": "كلمة492"
+  },
+  {
+    "english": "word493",
+    "arabic": "كلمة493"
+  },
+  {
+    "english": "word494",
+    "arabic": "كلمة494"
+  },
+  {
+    "english": "word495",
+    "arabic": "كلمة495"
+  },
+  {
+    "english": "word496",
+    "arabic": "كلمة496"
+  },
+  {
+    "english": "word497",
+    "arabic": "كلمة497"
+  },
+  {
+    "english": "word498",
+    "arabic": "كلمة498"
+  },
+  {
+    "english": "word499",
+    "arabic": "كلمة499"
+  },
+  {
+    "english": "word500",
+    "arabic": "كلمة500"
+  },
+  {
+    "english": "word501",
+    "arabic": "كلمة501"
+  },
+  {
+    "english": "word502",
+    "arabic": "كلمة502"
+  },
+  {
+    "english": "word503",
+    "arabic": "كلمة503"
+  },
+  {
+    "english": "word504",
+    "arabic": "كلمة504"
+  },
+  {
+    "english": "word505",
+    "arabic": "كلمة505"
+  },
+  {
+    "english": "word506",
+    "arabic": "كلمة506"
+  },
+  {
+    "english": "word507",
+    "arabic": "كلمة507"
+  },
+  {
+    "english": "word508",
+    "arabic": "كلمة508"
+  },
+  {
+    "english": "word509",
+    "arabic": "كلمة509"
+  },
+  {
+    "english": "word510",
+    "arabic": "كلمة510"
+  },
+  {
+    "english": "word511",
+    "arabic": "كلمة511"
+  },
+  {
+    "english": "word512",
+    "arabic": "كلمة512"
+  },
+  {
+    "english": "word513",
+    "arabic": "كلمة513"
+  },
+  {
+    "english": "word514",
+    "arabic": "كلمة514"
+  },
+  {
+    "english": "word515",
+    "arabic": "كلمة515"
+  },
+  {
+    "english": "word516",
+    "arabic": "كلمة516"
+  },
+  {
+    "english": "word517",
+    "arabic": "كلمة517"
+  },
+  {
+    "english": "word518",
+    "arabic": "كلمة518"
+  },
+  {
+    "english": "word519",
+    "arabic": "كلمة519"
+  },
+  {
+    "english": "word520",
+    "arabic": "كلمة520"
+  },
+  {
+    "english": "word521",
+    "arabic": "كلمة521"
+  },
+  {
+    "english": "word522",
+    "arabic": "كلمة522"
+  },
+  {
+    "english": "word523",
+    "arabic": "كلمة523"
+  },
+  {
+    "english": "word524",
+    "arabic": "كلمة524"
+  },
+  {
+    "english": "word525",
+    "arabic": "كلمة525"
+  },
+  {
+    "english": "word526",
+    "arabic": "كلمة526"
+  },
+  {
+    "english": "word527",
+    "arabic": "كلمة527"
+  },
+  {
+    "english": "word528",
+    "arabic": "كلمة528"
+  },
+  {
+    "english": "word529",
+    "arabic": "كلمة529"
+  },
+  {
+    "english": "word530",
+    "arabic": "كلمة530"
+  },
+  {
+    "english": "word531",
+    "arabic": "كلمة531"
+  },
+  {
+    "english": "word532",
+    "arabic": "كلمة532"
+  },
+  {
+    "english": "word533",
+    "arabic": "كلمة533"
+  },
+  {
+    "english": "word534",
+    "arabic": "كلمة534"
+  },
+  {
+    "english": "word535",
+    "arabic": "كلمة535"
+  },
+  {
+    "english": "word536",
+    "arabic": "كلمة536"
+  },
+  {
+    "english": "word537",
+    "arabic": "كلمة537"
+  },
+  {
+    "english": "word538",
+    "arabic": "كلمة538"
+  },
+  {
+    "english": "word539",
+    "arabic": "كلمة539"
+  },
+  {
+    "english": "word540",
+    "arabic": "كلمة540"
+  },
+  {
+    "english": "word541",
+    "arabic": "كلمة541"
+  },
+  {
+    "english": "word542",
+    "arabic": "كلمة542"
+  },
+  {
+    "english": "word543",
+    "arabic": "كلمة543"
+  },
+  {
+    "english": "word544",
+    "arabic": "كلمة544"
+  },
+  {
+    "english": "word545",
+    "arabic": "كلمة545"
+  },
+  {
+    "english": "word546",
+    "arabic": "كلمة546"
+  },
+  {
+    "english": "word547",
+    "arabic": "كلمة547"
+  },
+  {
+    "english": "word548",
+    "arabic": "كلمة548"
+  },
+  {
+    "english": "word549",
+    "arabic": "كلمة549"
+  },
+  {
+    "english": "word550",
+    "arabic": "كلمة550"
+  },
+  {
+    "english": "word551",
+    "arabic": "كلمة551"
+  },
+  {
+    "english": "word552",
+    "arabic": "كلمة552"
+  },
+  {
+    "english": "word553",
+    "arabic": "كلمة553"
+  },
+  {
+    "english": "word554",
+    "arabic": "كلمة554"
+  },
+  {
+    "english": "word555",
+    "arabic": "كلمة555"
+  },
+  {
+    "english": "word556",
+    "arabic": "كلمة556"
+  },
+  {
+    "english": "word557",
+    "arabic": "كلمة557"
+  },
+  {
+    "english": "word558",
+    "arabic": "كلمة558"
+  },
+  {
+    "english": "word559",
+    "arabic": "كلمة559"
+  },
+  {
+    "english": "word560",
+    "arabic": "كلمة560"
+  },
+  {
+    "english": "word561",
+    "arabic": "كلمة561"
+  },
+  {
+    "english": "word562",
+    "arabic": "كلمة562"
+  },
+  {
+    "english": "word563",
+    "arabic": "كلمة563"
+  },
+  {
+    "english": "word564",
+    "arabic": "كلمة564"
+  },
+  {
+    "english": "word565",
+    "arabic": "كلمة565"
+  },
+  {
+    "english": "word566",
+    "arabic": "كلمة566"
+  },
+  {
+    "english": "word567",
+    "arabic": "كلمة567"
+  },
+  {
+    "english": "word568",
+    "arabic": "كلمة568"
+  },
+  {
+    "english": "word569",
+    "arabic": "كلمة569"
+  },
+  {
+    "english": "word570",
+    "arabic": "كلمة570"
+  },
+  {
+    "english": "word571",
+    "arabic": "كلمة571"
+  },
+  {
+    "english": "word572",
+    "arabic": "كلمة572"
+  },
+  {
+    "english": "word573",
+    "arabic": "كلمة573"
+  },
+  {
+    "english": "word574",
+    "arabic": "كلمة574"
+  },
+  {
+    "english": "word575",
+    "arabic": "كلمة575"
+  },
+  {
+    "english": "word576",
+    "arabic": "كلمة576"
+  },
+  {
+    "english": "word577",
+    "arabic": "كلمة577"
+  },
+  {
+    "english": "word578",
+    "arabic": "كلمة578"
+  },
+  {
+    "english": "word579",
+    "arabic": "كلمة579"
+  },
+  {
+    "english": "word580",
+    "arabic": "كلمة580"
+  },
+  {
+    "english": "word581",
+    "arabic": "كلمة581"
+  },
+  {
+    "english": "word582",
+    "arabic": "كلمة582"
+  },
+  {
+    "english": "word583",
+    "arabic": "كلمة583"
+  },
+  {
+    "english": "word584",
+    "arabic": "كلمة584"
+  },
+  {
+    "english": "word585",
+    "arabic": "كلمة585"
+  },
+  {
+    "english": "word586",
+    "arabic": "كلمة586"
+  },
+  {
+    "english": "word587",
+    "arabic": "كلمة587"
+  },
+  {
+    "english": "word588",
+    "arabic": "كلمة588"
+  },
+  {
+    "english": "word589",
+    "arabic": "كلمة589"
+  },
+  {
+    "english": "word590",
+    "arabic": "كلمة590"
+  },
+  {
+    "english": "word591",
+    "arabic": "كلمة591"
+  },
+  {
+    "english": "word592",
+    "arabic": "كلمة592"
+  },
+  {
+    "english": "word593",
+    "arabic": "كلمة593"
+  },
+  {
+    "english": "word594",
+    "arabic": "كلمة594"
+  },
+  {
+    "english": "word595",
+    "arabic": "كلمة595"
+  },
+  {
+    "english": "word596",
+    "arabic": "كلمة596"
+  },
+  {
+    "english": "word597",
+    "arabic": "كلمة597"
+  },
+  {
+    "english": "word598",
+    "arabic": "كلمة598"
+  },
+  {
+    "english": "word599",
+    "arabic": "كلمة599"
+  },
+  {
+    "english": "word600",
+    "arabic": "كلمة600"
+  },
+  {
+    "english": "word601",
+    "arabic": "كلمة601"
+  },
+  {
+    "english": "word602",
+    "arabic": "كلمة602"
+  },
+  {
+    "english": "word603",
+    "arabic": "كلمة603"
+  },
+  {
+    "english": "word604",
+    "arabic": "كلمة604"
+  },
+  {
+    "english": "word605",
+    "arabic": "كلمة605"
+  },
+  {
+    "english": "word606",
+    "arabic": "كلمة606"
+  },
+  {
+    "english": "word607",
+    "arabic": "كلمة607"
+  },
+  {
+    "english": "word608",
+    "arabic": "كلمة608"
+  },
+  {
+    "english": "word609",
+    "arabic": "كلمة609"
+  },
+  {
+    "english": "word610",
+    "arabic": "كلمة610"
+  },
+  {
+    "english": "word611",
+    "arabic": "كلمة611"
+  },
+  {
+    "english": "word612",
+    "arabic": "كلمة612"
+  },
+  {
+    "english": "word613",
+    "arabic": "كلمة613"
+  },
+  {
+    "english": "word614",
+    "arabic": "كلمة614"
+  },
+  {
+    "english": "word615",
+    "arabic": "كلمة615"
+  },
+  {
+    "english": "word616",
+    "arabic": "كلمة616"
+  },
+  {
+    "english": "word617",
+    "arabic": "كلمة617"
+  },
+  {
+    "english": "word618",
+    "arabic": "كلمة618"
+  },
+  {
+    "english": "word619",
+    "arabic": "كلمة619"
+  },
+  {
+    "english": "word620",
+    "arabic": "كلمة620"
+  },
+  {
+    "english": "word621",
+    "arabic": "كلمة621"
+  },
+  {
+    "english": "word622",
+    "arabic": "كلمة622"
+  },
+  {
+    "english": "word623",
+    "arabic": "كلمة623"
+  },
+  {
+    "english": "word624",
+    "arabic": "كلمة624"
+  },
+  {
+    "english": "word625",
+    "arabic": "كلمة625"
+  },
+  {
+    "english": "word626",
+    "arabic": "كلمة626"
+  },
+  {
+    "english": "word627",
+    "arabic": "كلمة627"
+  },
+  {
+    "english": "word628",
+    "arabic": "كلمة628"
+  },
+  {
+    "english": "word629",
+    "arabic": "كلمة629"
+  },
+  {
+    "english": "word630",
+    "arabic": "كلمة630"
+  },
+  {
+    "english": "word631",
+    "arabic": "كلمة631"
+  },
+  {
+    "english": "word632",
+    "arabic": "كلمة632"
+  },
+  {
+    "english": "word633",
+    "arabic": "كلمة633"
+  },
+  {
+    "english": "word634",
+    "arabic": "كلمة634"
+  },
+  {
+    "english": "word635",
+    "arabic": "كلمة635"
+  },
+  {
+    "english": "word636",
+    "arabic": "كلمة636"
+  },
+  {
+    "english": "word637",
+    "arabic": "كلمة637"
+  },
+  {
+    "english": "word638",
+    "arabic": "كلمة638"
+  },
+  {
+    "english": "word639",
+    "arabic": "كلمة639"
+  },
+  {
+    "english": "word640",
+    "arabic": "كلمة640"
+  },
+  {
+    "english": "word641",
+    "arabic": "كلمة641"
+  },
+  {
+    "english": "word642",
+    "arabic": "كلمة642"
+  },
+  {
+    "english": "word643",
+    "arabic": "كلمة643"
+  },
+  {
+    "english": "word644",
+    "arabic": "كلمة644"
+  },
+  {
+    "english": "word645",
+    "arabic": "كلمة645"
+  },
+  {
+    "english": "word646",
+    "arabic": "كلمة646"
+  },
+  {
+    "english": "word647",
+    "arabic": "كلمة647"
+  },
+  {
+    "english": "word648",
+    "arabic": "كلمة648"
+  },
+  {
+    "english": "word649",
+    "arabic": "كلمة649"
+  },
+  {
+    "english": "word650",
+    "arabic": "كلمة650"
+  },
+  {
+    "english": "word651",
+    "arabic": "كلمة651"
+  },
+  {
+    "english": "word652",
+    "arabic": "كلمة652"
+  },
+  {
+    "english": "word653",
+    "arabic": "كلمة653"
+  },
+  {
+    "english": "word654",
+    "arabic": "كلمة654"
+  },
+  {
+    "english": "word655",
+    "arabic": "كلمة655"
+  },
+  {
+    "english": "word656",
+    "arabic": "كلمة656"
+  },
+  {
+    "english": "word657",
+    "arabic": "كلمة657"
+  },
+  {
+    "english": "word658",
+    "arabic": "كلمة658"
+  },
+  {
+    "english": "word659",
+    "arabic": "كلمة659"
+  },
+  {
+    "english": "word660",
+    "arabic": "كلمة660"
+  },
+  {
+    "english": "word661",
+    "arabic": "كلمة661"
+  },
+  {
+    "english": "word662",
+    "arabic": "كلمة662"
+  },
+  {
+    "english": "word663",
+    "arabic": "كلمة663"
+  },
+  {
+    "english": "word664",
+    "arabic": "كلمة664"
+  },
+  {
+    "english": "word665",
+    "arabic": "كلمة665"
+  },
+  {
+    "english": "word666",
+    "arabic": "كلمة666"
+  },
+  {
+    "english": "word667",
+    "arabic": "كلمة667"
+  },
+  {
+    "english": "word668",
+    "arabic": "كلمة668"
+  },
+  {
+    "english": "word669",
+    "arabic": "كلمة669"
+  },
+  {
+    "english": "word670",
+    "arabic": "كلمة670"
+  },
+  {
+    "english": "word671",
+    "arabic": "كلمة671"
+  },
+  {
+    "english": "word672",
+    "arabic": "كلمة672"
+  },
+  {
+    "english": "word673",
+    "arabic": "كلمة673"
+  },
+  {
+    "english": "word674",
+    "arabic": "كلمة674"
+  },
+  {
+    "english": "word675",
+    "arabic": "كلمة675"
+  },
+  {
+    "english": "word676",
+    "arabic": "كلمة676"
+  },
+  {
+    "english": "word677",
+    "arabic": "كلمة677"
+  },
+  {
+    "english": "word678",
+    "arabic": "كلمة678"
+  },
+  {
+    "english": "word679",
+    "arabic": "كلمة679"
+  },
+  {
+    "english": "word680",
+    "arabic": "كلمة680"
+  },
+  {
+    "english": "word681",
+    "arabic": "كلمة681"
+  },
+  {
+    "english": "word682",
+    "arabic": "كلمة682"
+  },
+  {
+    "english": "word683",
+    "arabic": "كلمة683"
+  },
+  {
+    "english": "word684",
+    "arabic": "كلمة684"
+  },
+  {
+    "english": "word685",
+    "arabic": "كلمة685"
+  },
+  {
+    "english": "word686",
+    "arabic": "كلمة686"
+  },
+  {
+    "english": "word687",
+    "arabic": "كلمة687"
+  },
+  {
+    "english": "word688",
+    "arabic": "كلمة688"
+  },
+  {
+    "english": "word689",
+    "arabic": "كلمة689"
+  },
+  {
+    "english": "word690",
+    "arabic": "كلمة690"
+  },
+  {
+    "english": "word691",
+    "arabic": "كلمة691"
+  },
+  {
+    "english": "word692",
+    "arabic": "كلمة692"
+  },
+  {
+    "english": "word693",
+    "arabic": "كلمة693"
+  },
+  {
+    "english": "word694",
+    "arabic": "كلمة694"
+  },
+  {
+    "english": "word695",
+    "arabic": "كلمة695"
+  },
+  {
+    "english": "word696",
+    "arabic": "كلمة696"
+  },
+  {
+    "english": "word697",
+    "arabic": "كلمة697"
+  },
+  {
+    "english": "word698",
+    "arabic": "كلمة698"
+  },
+  {
+    "english": "word699",
+    "arabic": "كلمة699"
+  },
+  {
+    "english": "word700",
+    "arabic": "كلمة700"
+  },
+  {
+    "english": "word701",
+    "arabic": "كلمة701"
+  },
+  {
+    "english": "word702",
+    "arabic": "كلمة702"
+  },
+  {
+    "english": "word703",
+    "arabic": "كلمة703"
+  },
+  {
+    "english": "word704",
+    "arabic": "كلمة704"
+  },
+  {
+    "english": "word705",
+    "arabic": "كلمة705"
+  },
+  {
+    "english": "word706",
+    "arabic": "كلمة706"
+  },
+  {
+    "english": "word707",
+    "arabic": "كلمة707"
+  },
+  {
+    "english": "word708",
+    "arabic": "كلمة708"
+  },
+  {
+    "english": "word709",
+    "arabic": "كلمة709"
+  },
+  {
+    "english": "word710",
+    "arabic": "كلمة710"
+  },
+  {
+    "english": "word711",
+    "arabic": "كلمة711"
+  },
+  {
+    "english": "word712",
+    "arabic": "كلمة712"
+  },
+  {
+    "english": "word713",
+    "arabic": "كلمة713"
+  },
+  {
+    "english": "word714",
+    "arabic": "كلمة714"
+  },
+  {
+    "english": "word715",
+    "arabic": "كلمة715"
+  },
+  {
+    "english": "word716",
+    "arabic": "كلمة716"
+  },
+  {
+    "english": "word717",
+    "arabic": "كلمة717"
+  },
+  {
+    "english": "word718",
+    "arabic": "كلمة718"
+  },
+  {
+    "english": "word719",
+    "arabic": "كلمة719"
+  },
+  {
+    "english": "word720",
+    "arabic": "كلمة720"
+  },
+  {
+    "english": "word721",
+    "arabic": "كلمة721"
+  },
+  {
+    "english": "word722",
+    "arabic": "كلمة722"
+  },
+  {
+    "english": "word723",
+    "arabic": "كلمة723"
+  },
+  {
+    "english": "word724",
+    "arabic": "كلمة724"
+  },
+  {
+    "english": "word725",
+    "arabic": "كلمة725"
+  },
+  {
+    "english": "word726",
+    "arabic": "كلمة726"
+  },
+  {
+    "english": "word727",
+    "arabic": "كلمة727"
+  },
+  {
+    "english": "word728",
+    "arabic": "كلمة728"
+  },
+  {
+    "english": "word729",
+    "arabic": "كلمة729"
+  },
+  {
+    "english": "word730",
+    "arabic": "كلمة730"
+  },
+  {
+    "english": "word731",
+    "arabic": "كلمة731"
+  },
+  {
+    "english": "word732",
+    "arabic": "كلمة732"
+  },
+  {
+    "english": "word733",
+    "arabic": "كلمة733"
+  },
+  {
+    "english": "word734",
+    "arabic": "كلمة734"
+  },
+  {
+    "english": "word735",
+    "arabic": "كلمة735"
+  },
+  {
+    "english": "word736",
+    "arabic": "كلمة736"
+  },
+  {
+    "english": "word737",
+    "arabic": "كلمة737"
+  },
+  {
+    "english": "word738",
+    "arabic": "كلمة738"
+  },
+  {
+    "english": "word739",
+    "arabic": "كلمة739"
+  },
+  {
+    "english": "word740",
+    "arabic": "كلمة740"
+  },
+  {
+    "english": "word741",
+    "arabic": "كلمة741"
+  },
+  {
+    "english": "word742",
+    "arabic": "كلمة742"
+  },
+  {
+    "english": "word743",
+    "arabic": "كلمة743"
+  },
+  {
+    "english": "word744",
+    "arabic": "كلمة744"
+  },
+  {
+    "english": "word745",
+    "arabic": "كلمة745"
+  },
+  {
+    "english": "word746",
+    "arabic": "كلمة746"
+  },
+  {
+    "english": "word747",
+    "arabic": "كلمة747"
+  },
+  {
+    "english": "word748",
+    "arabic": "كلمة748"
+  },
+  {
+    "english": "word749",
+    "arabic": "كلمة749"
+  },
+  {
+    "english": "word750",
+    "arabic": "كلمة750"
+  },
+  {
+    "english": "word751",
+    "arabic": "كلمة751"
+  },
+  {
+    "english": "word752",
+    "arabic": "كلمة752"
+  },
+  {
+    "english": "word753",
+    "arabic": "كلمة753"
+  },
+  {
+    "english": "word754",
+    "arabic": "كلمة754"
+  },
+  {
+    "english": "word755",
+    "arabic": "كلمة755"
+  },
+  {
+    "english": "word756",
+    "arabic": "كلمة756"
+  },
+  {
+    "english": "word757",
+    "arabic": "كلمة757"
+  },
+  {
+    "english": "word758",
+    "arabic": "كلمة758"
+  },
+  {
+    "english": "word759",
+    "arabic": "كلمة759"
+  },
+  {
+    "english": "word760",
+    "arabic": "كلمة760"
+  },
+  {
+    "english": "word761",
+    "arabic": "كلمة761"
+  },
+  {
+    "english": "word762",
+    "arabic": "كلمة762"
+  },
+  {
+    "english": "word763",
+    "arabic": "كلمة763"
+  },
+  {
+    "english": "word764",
+    "arabic": "كلمة764"
+  },
+  {
+    "english": "word765",
+    "arabic": "كلمة765"
+  },
+  {
+    "english": "word766",
+    "arabic": "كلمة766"
+  },
+  {
+    "english": "word767",
+    "arabic": "كلمة767"
+  },
+  {
+    "english": "word768",
+    "arabic": "كلمة768"
+  },
+  {
+    "english": "word769",
+    "arabic": "كلمة769"
+  },
+  {
+    "english": "word770",
+    "arabic": "كلمة770"
+  },
+  {
+    "english": "word771",
+    "arabic": "كلمة771"
+  },
+  {
+    "english": "word772",
+    "arabic": "كلمة772"
+  },
+  {
+    "english": "word773",
+    "arabic": "كلمة773"
+  },
+  {
+    "english": "word774",
+    "arabic": "كلمة774"
+  },
+  {
+    "english": "word775",
+    "arabic": "كلمة775"
+  },
+  {
+    "english": "word776",
+    "arabic": "كلمة776"
+  },
+  {
+    "english": "word777",
+    "arabic": "كلمة777"
+  },
+  {
+    "english": "word778",
+    "arabic": "كلمة778"
+  },
+  {
+    "english": "word779",
+    "arabic": "كلمة779"
+  },
+  {
+    "english": "word780",
+    "arabic": "كلمة780"
+  },
+  {
+    "english": "word781",
+    "arabic": "كلمة781"
+  },
+  {
+    "english": "word782",
+    "arabic": "كلمة782"
+  },
+  {
+    "english": "word783",
+    "arabic": "كلمة783"
+  },
+  {
+    "english": "word784",
+    "arabic": "كلمة784"
+  },
+  {
+    "english": "word785",
+    "arabic": "كلمة785"
+  },
+  {
+    "english": "word786",
+    "arabic": "كلمة786"
+  },
+  {
+    "english": "word787",
+    "arabic": "كلمة787"
+  },
+  {
+    "english": "word788",
+    "arabic": "كلمة788"
+  },
+  {
+    "english": "word789",
+    "arabic": "كلمة789"
+  },
+  {
+    "english": "word790",
+    "arabic": "كلمة790"
+  },
+  {
+    "english": "word791",
+    "arabic": "كلمة791"
+  },
+  {
+    "english": "word792",
+    "arabic": "كلمة792"
+  },
+  {
+    "english": "word793",
+    "arabic": "كلمة793"
+  },
+  {
+    "english": "word794",
+    "arabic": "كلمة794"
+  },
+  {
+    "english": "word795",
+    "arabic": "كلمة795"
+  },
+  {
+    "english": "word796",
+    "arabic": "كلمة796"
+  },
+  {
+    "english": "word797",
+    "arabic": "كلمة797"
+  },
+  {
+    "english": "word798",
+    "arabic": "كلمة798"
+  },
+  {
+    "english": "word799",
+    "arabic": "كلمة799"
+  },
+  {
+    "english": "word800",
+    "arabic": "كلمة800"
+  },
+  {
+    "english": "word801",
+    "arabic": "كلمة801"
+  },
+  {
+    "english": "word802",
+    "arabic": "كلمة802"
+  },
+  {
+    "english": "word803",
+    "arabic": "كلمة803"
+  },
+  {
+    "english": "word804",
+    "arabic": "كلمة804"
+  },
+  {
+    "english": "word805",
+    "arabic": "كلمة805"
+  },
+  {
+    "english": "word806",
+    "arabic": "كلمة806"
+  },
+  {
+    "english": "word807",
+    "arabic": "كلمة807"
+  },
+  {
+    "english": "word808",
+    "arabic": "كلمة808"
+  },
+  {
+    "english": "word809",
+    "arabic": "كلمة809"
+  },
+  {
+    "english": "word810",
+    "arabic": "كلمة810"
+  },
+  {
+    "english": "word811",
+    "arabic": "كلمة811"
+  },
+  {
+    "english": "word812",
+    "arabic": "كلمة812"
+  },
+  {
+    "english": "word813",
+    "arabic": "كلمة813"
+  },
+  {
+    "english": "word814",
+    "arabic": "كلمة814"
+  },
+  {
+    "english": "word815",
+    "arabic": "كلمة815"
+  },
+  {
+    "english": "word816",
+    "arabic": "كلمة816"
+  },
+  {
+    "english": "word817",
+    "arabic": "كلمة817"
+  },
+  {
+    "english": "word818",
+    "arabic": "كلمة818"
+  },
+  {
+    "english": "word819",
+    "arabic": "كلمة819"
+  },
+  {
+    "english": "word820",
+    "arabic": "كلمة820"
+  },
+  {
+    "english": "word821",
+    "arabic": "كلمة821"
+  },
+  {
+    "english": "word822",
+    "arabic": "كلمة822"
+  },
+  {
+    "english": "word823",
+    "arabic": "كلمة823"
+  },
+  {
+    "english": "word824",
+    "arabic": "كلمة824"
+  },
+  {
+    "english": "word825",
+    "arabic": "كلمة825"
+  },
+  {
+    "english": "word826",
+    "arabic": "كلمة826"
+  },
+  {
+    "english": "word827",
+    "arabic": "كلمة827"
+  },
+  {
+    "english": "word828",
+    "arabic": "كلمة828"
+  },
+  {
+    "english": "word829",
+    "arabic": "كلمة829"
+  },
+  {
+    "english": "word830",
+    "arabic": "كلمة830"
+  },
+  {
+    "english": "word831",
+    "arabic": "كلمة831"
+  },
+  {
+    "english": "word832",
+    "arabic": "كلمة832"
+  },
+  {
+    "english": "word833",
+    "arabic": "كلمة833"
+  },
+  {
+    "english": "word834",
+    "arabic": "كلمة834"
+  },
+  {
+    "english": "word835",
+    "arabic": "كلمة835"
+  },
+  {
+    "english": "word836",
+    "arabic": "كلمة836"
+  },
+  {
+    "english": "word837",
+    "arabic": "كلمة837"
+  },
+  {
+    "english": "word838",
+    "arabic": "كلمة838"
+  },
+  {
+    "english": "word839",
+    "arabic": "كلمة839"
+  },
+  {
+    "english": "word840",
+    "arabic": "كلمة840"
+  },
+  {
+    "english": "word841",
+    "arabic": "كلمة841"
+  },
+  {
+    "english": "word842",
+    "arabic": "كلمة842"
+  },
+  {
+    "english": "word843",
+    "arabic": "كلمة843"
+  },
+  {
+    "english": "word844",
+    "arabic": "كلمة844"
+  },
+  {
+    "english": "word845",
+    "arabic": "كلمة845"
+  },
+  {
+    "english": "word846",
+    "arabic": "كلمة846"
+  },
+  {
+    "english": "word847",
+    "arabic": "كلمة847"
+  },
+  {
+    "english": "word848",
+    "arabic": "كلمة848"
+  },
+  {
+    "english": "word849",
+    "arabic": "كلمة849"
+  },
+  {
+    "english": "word850",
+    "arabic": "كلمة850"
+  },
+  {
+    "english": "word851",
+    "arabic": "كلمة851"
+  },
+  {
+    "english": "word852",
+    "arabic": "كلمة852"
+  },
+  {
+    "english": "word853",
+    "arabic": "كلمة853"
+  },
+  {
+    "english": "word854",
+    "arabic": "كلمة854"
+  },
+  {
+    "english": "word855",
+    "arabic": "كلمة855"
+  },
+  {
+    "english": "word856",
+    "arabic": "كلمة856"
+  },
+  {
+    "english": "word857",
+    "arabic": "كلمة857"
+  },
+  {
+    "english": "word858",
+    "arabic": "كلمة858"
+  },
+  {
+    "english": "word859",
+    "arabic": "كلمة859"
+  },
+  {
+    "english": "word860",
+    "arabic": "كلمة860"
+  },
+  {
+    "english": "word861",
+    "arabic": "كلمة861"
+  },
+  {
+    "english": "word862",
+    "arabic": "كلمة862"
+  },
+  {
+    "english": "word863",
+    "arabic": "كلمة863"
+  },
+  {
+    "english": "word864",
+    "arabic": "كلمة864"
+  },
+  {
+    "english": "word865",
+    "arabic": "كلمة865"
+  },
+  {
+    "english": "word866",
+    "arabic": "كلمة866"
+  },
+  {
+    "english": "word867",
+    "arabic": "كلمة867"
+  },
+  {
+    "english": "word868",
+    "arabic": "كلمة868"
+  },
+  {
+    "english": "word869",
+    "arabic": "كلمة869"
+  },
+  {
+    "english": "word870",
+    "arabic": "كلمة870"
+  },
+  {
+    "english": "word871",
+    "arabic": "كلمة871"
+  },
+  {
+    "english": "word872",
+    "arabic": "كلمة872"
+  },
+  {
+    "english": "word873",
+    "arabic": "كلمة873"
+  },
+  {
+    "english": "word874",
+    "arabic": "كلمة874"
+  },
+  {
+    "english": "word875",
+    "arabic": "كلمة875"
+  },
+  {
+    "english": "word876",
+    "arabic": "كلمة876"
+  },
+  {
+    "english": "word877",
+    "arabic": "كلمة877"
+  },
+  {
+    "english": "word878",
+    "arabic": "كلمة878"
+  },
+  {
+    "english": "word879",
+    "arabic": "كلمة879"
+  },
+  {
+    "english": "word880",
+    "arabic": "كلمة880"
+  },
+  {
+    "english": "word881",
+    "arabic": "كلمة881"
+  },
+  {
+    "english": "word882",
+    "arabic": "كلمة882"
+  },
+  {
+    "english": "word883",
+    "arabic": "كلمة883"
+  },
+  {
+    "english": "word884",
+    "arabic": "كلمة884"
+  },
+  {
+    "english": "word885",
+    "arabic": "كلمة885"
+  },
+  {
+    "english": "word886",
+    "arabic": "كلمة886"
+  },
+  {
+    "english": "word887",
+    "arabic": "كلمة887"
+  },
+  {
+    "english": "word888",
+    "arabic": "كلمة888"
+  },
+  {
+    "english": "word889",
+    "arabic": "كلمة889"
+  },
+  {
+    "english": "word890",
+    "arabic": "كلمة890"
+  },
+  {
+    "english": "word891",
+    "arabic": "كلمة891"
+  },
+  {
+    "english": "word892",
+    "arabic": "كلمة892"
+  },
+  {
+    "english": "word893",
+    "arabic": "كلمة893"
+  },
+  {
+    "english": "word894",
+    "arabic": "كلمة894"
+  },
+  {
+    "english": "word895",
+    "arabic": "كلمة895"
+  },
+  {
+    "english": "word896",
+    "arabic": "كلمة896"
+  },
+  {
+    "english": "word897",
+    "arabic": "كلمة897"
+  },
+  {
+    "english": "word898",
+    "arabic": "كلمة898"
+  },
+  {
+    "english": "word899",
+    "arabic": "كلمة899"
+  },
+  {
+    "english": "word900",
+    "arabic": "كلمة900"
+  },
+  {
+    "english": "word901",
+    "arabic": "كلمة901"
+  },
+  {
+    "english": "word902",
+    "arabic": "كلمة902"
+  },
+  {
+    "english": "word903",
+    "arabic": "كلمة903"
+  },
+  {
+    "english": "word904",
+    "arabic": "كلمة904"
+  },
+  {
+    "english": "word905",
+    "arabic": "كلمة905"
+  },
+  {
+    "english": "word906",
+    "arabic": "كلمة906"
+  },
+  {
+    "english": "word907",
+    "arabic": "كلمة907"
+  },
+  {
+    "english": "word908",
+    "arabic": "كلمة908"
+  },
+  {
+    "english": "word909",
+    "arabic": "كلمة909"
+  },
+  {
+    "english": "word910",
+    "arabic": "كلمة910"
+  },
+  {
+    "english": "word911",
+    "arabic": "كلمة911"
+  },
+  {
+    "english": "word912",
+    "arabic": "كلمة912"
+  },
+  {
+    "english": "word913",
+    "arabic": "كلمة913"
+  },
+  {
+    "english": "word914",
+    "arabic": "كلمة914"
+  },
+  {
+    "english": "word915",
+    "arabic": "كلمة915"
+  },
+  {
+    "english": "word916",
+    "arabic": "كلمة916"
+  },
+  {
+    "english": "word917",
+    "arabic": "كلمة917"
+  },
+  {
+    "english": "word918",
+    "arabic": "كلمة918"
+  },
+  {
+    "english": "word919",
+    "arabic": "كلمة919"
+  },
+  {
+    "english": "word920",
+    "arabic": "كلمة920"
+  },
+  {
+    "english": "word921",
+    "arabic": "كلمة921"
+  },
+  {
+    "english": "word922",
+    "arabic": "كلمة922"
+  },
+  {
+    "english": "word923",
+    "arabic": "كلمة923"
+  },
+  {
+    "english": "word924",
+    "arabic": "كلمة924"
+  },
+  {
+    "english": "word925",
+    "arabic": "كلمة925"
+  },
+  {
+    "english": "word926",
+    "arabic": "كلمة926"
+  },
+  {
+    "english": "word927",
+    "arabic": "كلمة927"
+  },
+  {
+    "english": "word928",
+    "arabic": "كلمة928"
+  },
+  {
+    "english": "word929",
+    "arabic": "كلمة929"
+  },
+  {
+    "english": "word930",
+    "arabic": "كلمة930"
+  },
+  {
+    "english": "word931",
+    "arabic": "كلمة931"
+  },
+  {
+    "english": "word932",
+    "arabic": "كلمة932"
+  },
+  {
+    "english": "word933",
+    "arabic": "كلمة933"
+  },
+  {
+    "english": "word934",
+    "arabic": "كلمة934"
+  },
+  {
+    "english": "word935",
+    "arabic": "كلمة935"
+  },
+  {
+    "english": "word936",
+    "arabic": "كلمة936"
+  },
+  {
+    "english": "word937",
+    "arabic": "كلمة937"
+  },
+  {
+    "english": "word938",
+    "arabic": "كلمة938"
+  },
+  {
+    "english": "word939",
+    "arabic": "كلمة939"
+  },
+  {
+    "english": "word940",
+    "arabic": "كلمة940"
+  },
+  {
+    "english": "word941",
+    "arabic": "كلمة941"
+  },
+  {
+    "english": "word942",
+    "arabic": "كلمة942"
+  },
+  {
+    "english": "word943",
+    "arabic": "كلمة943"
+  },
+  {
+    "english": "word944",
+    "arabic": "كلمة944"
+  },
+  {
+    "english": "word945",
+    "arabic": "كلمة945"
+  },
+  {
+    "english": "word946",
+    "arabic": "كلمة946"
+  },
+  {
+    "english": "word947",
+    "arabic": "كلمة947"
+  },
+  {
+    "english": "word948",
+    "arabic": "كلمة948"
+  },
+  {
+    "english": "word949",
+    "arabic": "كلمة949"
+  },
+  {
+    "english": "word950",
+    "arabic": "كلمة950"
+  },
+  {
+    "english": "word951",
+    "arabic": "كلمة951"
+  },
+  {
+    "english": "word952",
+    "arabic": "كلمة952"
+  },
+  {
+    "english": "word953",
+    "arabic": "كلمة953"
+  },
+  {
+    "english": "word954",
+    "arabic": "كلمة954"
+  },
+  {
+    "english": "word955",
+    "arabic": "كلمة955"
+  },
+  {
+    "english": "word956",
+    "arabic": "كلمة956"
+  },
+  {
+    "english": "word957",
+    "arabic": "كلمة957"
+  },
+  {
+    "english": "word958",
+    "arabic": "كلمة958"
+  },
+  {
+    "english": "word959",
+    "arabic": "كلمة959"
+  },
+  {
+    "english": "word960",
+    "arabic": "كلمة960"
+  },
+  {
+    "english": "word961",
+    "arabic": "كلمة961"
+  },
+  {
+    "english": "word962",
+    "arabic": "كلمة962"
+  },
+  {
+    "english": "word963",
+    "arabic": "كلمة963"
+  },
+  {
+    "english": "word964",
+    "arabic": "كلمة964"
+  },
+  {
+    "english": "word965",
+    "arabic": "كلمة965"
+  },
+  {
+    "english": "word966",
+    "arabic": "كلمة966"
+  },
+  {
+    "english": "word967",
+    "arabic": "كلمة967"
+  },
+  {
+    "english": "word968",
+    "arabic": "كلمة968"
+  },
+  {
+    "english": "word969",
+    "arabic": "كلمة969"
+  },
+  {
+    "english": "word970",
+    "arabic": "كلمة970"
+  },
+  {
+    "english": "word971",
+    "arabic": "كلمة971"
+  },
+  {
+    "english": "word972",
+    "arabic": "كلمة972"
+  },
+  {
+    "english": "word973",
+    "arabic": "كلمة973"
+  },
+  {
+    "english": "word974",
+    "arabic": "كلمة974"
+  },
+  {
+    "english": "word975",
+    "arabic": "كلمة975"
+  },
+  {
+    "english": "word976",
+    "arabic": "كلمة976"
+  },
+  {
+    "english": "word977",
+    "arabic": "كلمة977"
+  },
+  {
+    "english": "word978",
+    "arabic": "كلمة978"
+  },
+  {
+    "english": "word979",
+    "arabic": "كلمة979"
+  },
+  {
+    "english": "word980",
+    "arabic": "كلمة980"
+  },
+  {
+    "english": "word981",
+    "arabic": "كلمة981"
+  },
+  {
+    "english": "word982",
+    "arabic": "كلمة982"
+  },
+  {
+    "english": "word983",
+    "arabic": "كلمة983"
+  },
+  {
+    "english": "word984",
+    "arabic": "كلمة984"
+  },
+  {
+    "english": "word985",
+    "arabic": "كلمة985"
+  },
+  {
+    "english": "word986",
+    "arabic": "كلمة986"
+  },
+  {
+    "english": "word987",
+    "arabic": "كلمة987"
+  },
+  {
+    "english": "word988",
+    "arabic": "كلمة988"
+  },
+  {
+    "english": "word989",
+    "arabic": "كلمة989"
+  },
+  {
+    "english": "word990",
+    "arabic": "كلمة990"
+  },
+  {
+    "english": "word991",
+    "arabic": "كلمة991"
+  },
+  {
+    "english": "word992",
+    "arabic": "كلمة992"
+  },
+  {
+    "english": "word993",
+    "arabic": "كلمة993"
+  },
+  {
+    "english": "word994",
+    "arabic": "كلمة994"
+  },
+  {
+    "english": "word995",
+    "arabic": "كلمة995"
+  },
+  {
+    "english": "word996",
+    "arabic": "كلمة996"
+  },
+  {
+    "english": "word997",
+    "arabic": "كلمة997"
+  },
+  {
+    "english": "word998",
+    "arabic": "كلمة998"
+  },
+  {
+    "english": "word999",
+    "arabic": "كلمة999"
+  },
+  {
+    "english": "word1000",
+    "arabic": "كلمة1000"
+  }
+]

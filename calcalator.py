@@ -1,0 +1,20 @@
+print ("**********************************************************************" )
+name_ = str (input ( " Enter your name  :   "))
+print ("**********************************************************************" )
+print ( "                  Hello " , name_  )
+print ("**********************************************************************" )
+mark1  = input ("Enter your 1st mark : " )
+mark1 = int (mark1)
+mark2  =  input ("Enter your 2nd mark : " )
+mark2 = int (mark2)
+mark3  =  input ("Enter your 3rd mark : " )
+mark3 = int (mark3)
+mark4  =  input ("Enter your 4th mark : " )
+mark4 = int (mark4)
+mark5  =  input ("Enter your 5th mark : " )
+mark5 = int (mark5)
+
+# opparations  
+
+avg1 = float ((mark1 + mark2 + mark3 + mark4 + mark5 )/5)
+print (" Your marks Avarage is : ",  avg1) 

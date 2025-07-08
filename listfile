@@ -1,0 +1,36 @@
+print ("wellcome ")
+import os 
+import json
+os.system ("cls")
+"""
+هذا الملف يقوم بصناعة ملف أول مرة 
+ثم يستدعي الملف للقراءة  ثم يطبعه 
+
+ثم يطلب من المستخدم أن يدخل بيانات 
+ويقوم بتخزينها في القائمة 
+
+الان يقوم بالكتابة على القائمة والتعديل على الملف الموجود 
+ 
+قي حاله لم يكون الملف موجود 
+"""
+# myfam =  ["rami" , "admad ", "mohamaad" , "hussen" , "ali"]
+# with open ("fam1.json " , "w" ) as f :
+#     json.dump (myfam , f)
+
+with open ("fam1.json","r" ) as f :
+    famdata = json.load(f)
+
+print (famdata) # القاءمة الاصلية 
+
+
+x=0
+while x<1 :
+        
+    name = input ("Enter your name :")
+    famdata.append (name)
+    x+=1
+print (famdata)
+
+with open ("fam1.json " , "w" ) as f :
+    json.dump (famdata , f)
+
